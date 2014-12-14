@@ -1,0 +1,4 @@
+solr-admin
+==========
+
+solr-admin
